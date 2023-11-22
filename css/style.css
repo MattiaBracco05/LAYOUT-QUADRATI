@@ -1,0 +1,124 @@
+#header {
+    border: 1px solid #000000;
+    background: #C4996C;
+    color: #ffffff;
+    height: 120px;
+    width: 900px;
+    text-align: center;
+    font-size: 60px;
+    line-height: 120px;
+}
+
+#company {
+    margin-top: 50px;
+    border: 1px solid #000000;
+    background: #A8A9AD;
+    color: #ffffff;
+    height: 400px;
+    width: 900px;
+    text-align: center;
+    font-size: 100px;
+    line-height: 400px;
+}
+
+#service {
+    margin-top: 25px;
+    border: 1px solid #ffffff;
+    background: #ffffff;
+    color: #000000;
+    height: 120px;
+    width: 900px;
+    text-align: center;
+    font-size: 60px;
+    line-height: 120px;
+}
+
+#servizi {
+    margin: 100px, 0px, 0px, 0px;
+}
+
+#primo {
+    display:inline-block;
+    border: 1px solid #000000;
+    background-color: #A8A9AD;
+    font-size: 60;
+    text-align: center;
+    line-height: 220px;
+    height: 220px;
+    width: 180px;
+    margin-left: 65px;
+}
+
+#secondo {
+    display:inline-block;
+    border: 1px solid #000000;
+    background-color: #A8A9AD;
+    font-size: 60;
+    text-align: center;
+    line-height: 220px;
+    height: 220px;
+    width: 180px;
+    margin-left: 65px;
+}
+
+#terzo {
+    display:inline-block;
+    border: 1px solid #000000;
+    background-color: #A8A9AD;
+    font-size: 60;
+    text-align: center;
+    line-height: 220px;
+    height: 220px;
+    width: 180px;
+    margin-left: 65px;
+}
+
+#quarto {
+    display:inline-block;
+    border: 1px solid #000000;
+    background-color: #A8A9AD;
+    font-size: 60;
+    text-align: center;
+    line-height: 220px;
+    height: 220px;
+    width: 180px;
+    margin-top: 15px;
+    margin-left: 65px;
+}
+
+#quinto {
+    display:inline-block;
+    border: 1px solid #000000;
+    background-color: #A8A9AD;
+    font-size: 60;
+    text-align: center;
+    line-height: 220px;
+    height: 220px;
+    width: 180px;
+    margin-left: 65px;
+}
+
+#sesto {
+    display:inline-block;
+    border: 1px solid #000000;
+    background-color: #A8A9AD;
+    font-size: 60;
+    text-align: center;
+    line-height: 220px;
+    height: 220px;
+    width: 180px;
+    margin-left: 65px;
+}
+
+#footer {
+    margin-top: 50px;
+    clear: both;
+    border: 1px solid #000000;
+    background: #195D7F;
+    color: #ffffff;
+    height: 120px;
+    width: 900px;
+    text-align: center;
+    font-size: 60px;
+    line-height: 120px;
+}
